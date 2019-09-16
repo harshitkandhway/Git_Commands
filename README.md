@@ -26,3 +26,5 @@ Useful commands
 8)to change permission of a file named mvnw
 # git update-index --chmod=+x mvnw
 
+9)To find user settings for local machine
+# git config -l
