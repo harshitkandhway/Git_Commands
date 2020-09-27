@@ -28,3 +28,6 @@ Useful commands
 
 9)To find user settings for local machine
 # git config -l
+
+10) To unstage a file which was previously added using (git add .)
+git restore --staged 1.txt
