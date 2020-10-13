@@ -30,4 +30,4 @@ Useful commands
 # git config -l
 
 10) To unstage a file which was previously added using (git add .)
-git restore --staged 1.txt
+# git restore --staged 1.txt
