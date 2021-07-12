@@ -31,3 +31,7 @@ Useful commands
 
 10) To unstage a file which was previously added using (git add .)
 # git restore --staged 1.txt
+
+11) To config username and userEmail in git
+# git config --global user.name "Name Title"
+# git config --global user.email email@example.com
